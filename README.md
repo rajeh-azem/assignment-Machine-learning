@@ -1,4 +1,4 @@
-# assignment_1_Machine-learning
+# assignment_Machine-learning
 polynomial-regression
 ## Results (test set)
 
